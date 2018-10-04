@@ -1,0 +1,865 @@
+# depslib dependency file v1.0
+1510930327 source:c:\users\harshit\desktop\8085_emulator\add.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510864695 c:\users\harshit\desktop\8085_emulator\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1510864743 c:\users\harshit\desktop\8085_emulator\basic_tools.h
+	"reg_struct.cpp"
+
+1510866133 c:\users\harshit\desktop\8085_emulator\reg_struct.cpp
+	"header.h"
+
+1510864873 c:\users\harshit\desktop\8085_emulator\operation_tools.h
+	"reg_struct.cpp"
+
+1510908897 c:\users\harshit\desktop\8085_emulator\validation_tools.h
+	"reg_struct.cpp"
+
+1510864802 c:\users\harshit\desktop\8085_emulator\convert_revert_tools.h
+	"reg_struct.cpp"
+
+1510941952 source:c:\users\harshit\desktop\8085_emulator\add_sub.cpp
+	"header.h"
+	"operation_tools.h"
+	"convert_revert_tools.h"
+
+1510931076 source:c:\users\harshit\desktop\8085_emulator\adi.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510933590 source:c:\users\harshit\desktop\8085_emulator\clearer.cpp
+	"reg_struct.cpp"
+
+1510931060 source:c:\users\harshit\desktop\8085_emulator\cma.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931039 source:c:\users\harshit\desktop\8085_emulator\cmp.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510933929 source:c:\users\harshit\desktop\8085_emulator\converter_reverter.cpp
+	"header.h"
+
+1510931113 source:c:\users\harshit\desktop\8085_emulator\dad.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931189 source:c:\users\harshit\desktop\8085_emulator\dcr.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931463 source:c:\users\harshit\desktop\8085_emulator\dcx.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943770 source:c:\users\harshit\desktop\8085_emulator\debug.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510865420 source:c:\users\harshit\desktop\8085_emulator\display.cpp
+	"header.h"
+	"reg_struct.cpp"
+
+1510982519 source:c:\users\harshit\desktop\8085_emulator\executer.cpp
+	"header.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+	"Load_Store.h"
+	"Arithmatical.h"
+	"Jump.h"
+
+1510929521 c:\users\harshit\desktop\8085_emulator\load_store.h
+
+1510864955 c:\users\harshit\desktop\8085_emulator\arithmatical.h
+
+1510865081 c:\users\harshit\desktop\8085_emulator\jump.h
+
+1510934389 source:c:\users\harshit\desktop\8085_emulator\flag_setter.cpp
+	"header.h"
+	"operation_tools.h"
+	"convert_revert_tools.h"
+
+1510865525 source:c:\users\harshit\desktop\8085_emulator\hlt.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934553 source:c:\users\harshit\desktop\8085_emulator\iis_compliment.cpp
+	"header.h"
+	"convert_revert_tools.h"
+	"operation_tools.h"
+
+1510944089 source:c:\users\harshit\desktop\8085_emulator\input.cpp
+	"header.h"
+	"basic_tools.h"
+	"convert_revert_tools.h"
+
+1510931604 source:c:\users\harshit\desktop\8085_emulator\inr.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931849 source:c:\users\harshit\desktop\8085_emulator\inx.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931946 source:c:\users\harshit\desktop\8085_emulator\jc.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1511001279 source:c:\users\harshit\desktop\8085_emulator\jmp.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932037 source:c:\users\harshit\desktop\8085_emulator\jnc.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932065 source:c:\users\harshit\desktop\8085_emulator\jnz.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932088 source:c:\users\harshit\desktop\8085_emulator\jz.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932144 source:c:\users\harshit\desktop\8085_emulator\lda.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932171 source:c:\users\harshit\desktop\8085_emulator\ldax.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932218 source:c:\users\harshit\desktop\8085_emulator\lhld.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932286 source:c:\users\harshit\desktop\8085_emulator\lxi.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943894 source:c:\users\harshit\desktop\8085_emulator\main.cpp
+	"header.h"
+	"reg_struct.cpp"
+	"basic_tools.h"
+
+1510866014 source:c:\users\harshit\desktop\8085_emulator\mneumonics.cpp
+	"header.h"
+
+1510932417 source:c:\users\harshit\desktop\8085_emulator\mov.cpp
+	"header.h"
+	"basic_tools.h"
+	"convert_revert_tools.h"
+	"validation_tools.h"
+
+1510932454 source:c:\users\harshit\desktop\8085_emulator\mvi.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934874 source:c:\users\harshit\desktop\8085_emulator\reg_backup.cpp
+	"reg_struct.cpp"
+
+1510866133 source:c:\users\harshit\desktop\8085_emulator\reg_struct.cpp
+	"header.h"
+
+1510908184 source:c:\users\harshit\desktop\8085_emulator\set.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943680 source:c:\users\harshit\desktop\8085_emulator\shld.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510914357 source:c:\users\harshit\desktop\8085_emulator\sta.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510999881 source:c:\users\harshit\desktop\8085_emulator\stax.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932673 source:c:\users\harshit\desktop\8085_emulator\sub.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932735 source:c:\users\harshit\desktop\8085_emulator\sui.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934956 source:c:\users\harshit\desktop\8085_emulator\to_case.cpp
+	"header.h"
+
+1510935281 source:c:\users\harshit\desktop\8085_emulator\validator.cpp
+	"header.h"
+	"reg_struct.cpp"
+	"convert_revert_tools.h"
+
+1510934999 source:c:\users\harshit\desktop\8085_emulator\value_adjuster.cpp
+	"header.h"
+
+1510929463 source:c:\users\harshit\desktop\8085_emulator\xchg.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510930327 source:e:\8085_emulator\add.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510864695 e:\8085_emulator\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1510864743 e:\8085_emulator\basic_tools.h
+	"reg_struct.cpp"
+
+1510866133 e:\8085_emulator\reg_struct.cpp
+	"header.h"
+
+1510864873 e:\8085_emulator\operation_tools.h
+	"reg_struct.cpp"
+
+1510908897 e:\8085_emulator\validation_tools.h
+	"reg_struct.cpp"
+
+1510864802 e:\8085_emulator\convert_revert_tools.h
+	"reg_struct.cpp"
+
+1510941952 source:e:\8085_emulator\add_sub.cpp
+	"header.h"
+	"operation_tools.h"
+	"convert_revert_tools.h"
+
+1510931076 source:e:\8085_emulator\adi.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510933590 source:e:\8085_emulator\clearer.cpp
+	"reg_struct.cpp"
+
+1510931060 source:e:\8085_emulator\cma.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931039 source:e:\8085_emulator\cmp.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510933929 source:e:\8085_emulator\converter_reverter.cpp
+	"header.h"
+
+1510931113 source:e:\8085_emulator\dad.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931189 source:e:\8085_emulator\dcr.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931463 source:e:\8085_emulator\dcx.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943770 source:e:\8085_emulator\debug.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510865420 source:e:\8085_emulator\display.cpp
+	"header.h"
+	"reg_struct.cpp"
+
+1510982519 source:e:\8085_emulator\executer.cpp
+	"header.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+	"Load_Store.h"
+	"Arithmatical.h"
+	"Jump.h"
+
+1510929521 e:\8085_emulator\load_store.h
+
+1510864955 e:\8085_emulator\arithmatical.h
+
+1510865081 e:\8085_emulator\jump.h
+
+1510934389 source:e:\8085_emulator\flag_setter.cpp
+	"header.h"
+	"operation_tools.h"
+	"convert_revert_tools.h"
+
+1510865525 source:e:\8085_emulator\hlt.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934553 source:e:\8085_emulator\iis_compliment.cpp
+	"header.h"
+	"convert_revert_tools.h"
+	"operation_tools.h"
+
+1510944089 source:e:\8085_emulator\input.cpp
+	"header.h"
+	"basic_tools.h"
+	"convert_revert_tools.h"
+
+1510931604 source:e:\8085_emulator\inr.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931849 source:e:\8085_emulator\inx.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931946 source:e:\8085_emulator\jc.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931995 source:e:\8085_emulator\jmp.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932037 source:e:\8085_emulator\jnc.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932065 source:e:\8085_emulator\jnz.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932088 source:e:\8085_emulator\jz.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932144 source:e:\8085_emulator\lda.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932171 source:e:\8085_emulator\ldax.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932218 source:e:\8085_emulator\lhld.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932286 source:e:\8085_emulator\lxi.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943894 source:e:\8085_emulator\main.cpp
+	"header.h"
+	"reg_struct.cpp"
+	"basic_tools.h"
+
+1510866014 source:e:\8085_emulator\mneumonics.cpp
+	"header.h"
+
+1510932417 source:e:\8085_emulator\mov.cpp
+	"header.h"
+	"basic_tools.h"
+	"convert_revert_tools.h"
+	"validation_tools.h"
+
+1510932454 source:e:\8085_emulator\mvi.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934874 source:e:\8085_emulator\reg_backup.cpp
+	"reg_struct.cpp"
+
+1510866133 source:e:\8085_emulator\reg_struct.cpp
+	"header.h"
+
+1510908184 source:e:\8085_emulator\set.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943680 source:e:\8085_emulator\shld.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510914357 source:e:\8085_emulator\sta.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510982299 source:e:\8085_emulator\stax.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932673 source:e:\8085_emulator\sub.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932735 source:e:\8085_emulator\sui.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934956 source:e:\8085_emulator\to_case.cpp
+	"header.h"
+
+1510935281 source:e:\8085_emulator\validator.cpp
+	"header.h"
+	"reg_struct.cpp"
+	"convert_revert_tools.h"
+
+1510934999 source:e:\8085_emulator\value_adjuster.cpp
+	"header.h"
+
+1510929463 source:e:\8085_emulator\xchg.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510930327 source:d:\8085_emulator\add.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510864695 d:\8085_emulator\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1510864743 d:\8085_emulator\basic_tools.h
+	"reg_struct.cpp"
+
+1510866133 d:\8085_emulator\reg_struct.cpp
+	"header.h"
+
+1510864873 d:\8085_emulator\operation_tools.h
+	"reg_struct.cpp"
+
+1510908897 d:\8085_emulator\validation_tools.h
+	"reg_struct.cpp"
+
+1510864802 d:\8085_emulator\convert_revert_tools.h
+	"reg_struct.cpp"
+
+1510941952 source:d:\8085_emulator\add_sub.cpp
+	"header.h"
+	"operation_tools.h"
+	"convert_revert_tools.h"
+
+1510931076 source:d:\8085_emulator\adi.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510933590 source:d:\8085_emulator\clearer.cpp
+	"reg_struct.cpp"
+
+1510931060 source:d:\8085_emulator\cma.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931039 source:d:\8085_emulator\cmp.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510933929 source:d:\8085_emulator\converter_reverter.cpp
+	"header.h"
+
+1510931113 source:d:\8085_emulator\dad.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931189 source:d:\8085_emulator\dcr.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931463 source:d:\8085_emulator\dcx.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943770 source:d:\8085_emulator\debug.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510865420 source:d:\8085_emulator\display.cpp
+	"header.h"
+	"reg_struct.cpp"
+
+1510982519 source:d:\8085_emulator\executer.cpp
+	"header.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+	"Load_Store.h"
+	"Arithmatical.h"
+	"Jump.h"
+
+1510929521 d:\8085_emulator\load_store.h
+
+1510864955 d:\8085_emulator\arithmatical.h
+
+1510865081 d:\8085_emulator\jump.h
+
+1510934389 source:d:\8085_emulator\flag_setter.cpp
+	"header.h"
+	"operation_tools.h"
+	"convert_revert_tools.h"
+
+1510865525 source:d:\8085_emulator\hlt.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934553 source:d:\8085_emulator\iis_compliment.cpp
+	"header.h"
+	"convert_revert_tools.h"
+	"operation_tools.h"
+
+1535638493 source:d:\8085_emulator\input.cpp
+	"header.h"
+	"basic_tools.h"
+	"convert_revert_tools.h"
+
+1510931604 source:d:\8085_emulator\inr.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510931849 source:d:\8085_emulator\inx.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1511001465 source:d:\8085_emulator\jc.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1511001279 source:d:\8085_emulator\jmp.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1511001469 source:d:\8085_emulator\jnc.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1511001469 source:d:\8085_emulator\jnz.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1511001469 source:d:\8085_emulator\jz.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932144 source:d:\8085_emulator\lda.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932171 source:d:\8085_emulator\ldax.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932218 source:d:\8085_emulator\lhld.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932286 source:d:\8085_emulator\lxi.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943894 source:d:\8085_emulator\main.cpp
+	"header.h"
+	"reg_struct.cpp"
+	"basic_tools.h"
+
+1510866014 source:d:\8085_emulator\mneumonics.cpp
+	"header.h"
+
+1510932417 source:d:\8085_emulator\mov.cpp
+	"header.h"
+	"basic_tools.h"
+	"convert_revert_tools.h"
+	"validation_tools.h"
+
+1510932454 source:d:\8085_emulator\mvi.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934874 source:d:\8085_emulator\reg_backup.cpp
+	"reg_struct.cpp"
+
+1510866133 source:d:\8085_emulator\reg_struct.cpp
+	"header.h"
+
+1510908184 source:d:\8085_emulator\set.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510943680 source:d:\8085_emulator\shld.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510914357 source:d:\8085_emulator\sta.cpp
+	"header.h"
+	"basic_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510999881 source:d:\8085_emulator\stax.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932673 source:d:\8085_emulator\sub.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510932735 source:d:\8085_emulator\sui.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+
+1510934956 source:d:\8085_emulator\to_case.cpp
+	"header.h"
+
+1510935281 source:d:\8085_emulator\validator.cpp
+	"header.h"
+	"reg_struct.cpp"
+	"convert_revert_tools.h"
+
+1510934999 source:d:\8085_emulator\value_adjuster.cpp
+	"header.h"
+
+1510929463 source:d:\8085_emulator\xchg.cpp
+	"header.h"
+	"basic_tools.h"
+	"operation_tools.h"
+	"validation_tools.h"
+	"convert_revert_tools.h"
+

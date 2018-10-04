@@ -1,0 +1,33 @@
+#include"header.h"
+
+void mneumonics(string mne[30])
+{
+    mne[0]="SET";
+	mne[1]="MOV";
+	mne[2]="MVI";
+	mne[3]="LXI";
+	mne[4]="LDA";
+	mne[5]="STA";
+	mne[6]="LHLD";
+	mne[7]="SHLD";
+	mne[8]="LDAX";
+	mne[9]="STAX";
+	mne[10]="XCHG";
+	mne[11]="ADD";
+	mne[12]="ADI";
+	mne[13]="SUB";
+	mne[14]="SUI";
+	mne[15]="INR";
+	mne[16]="DCR";
+	mne[17]="INX";
+	mne[18]="DCX";
+	mne[19]="DAD";
+	mne[20]="CMA";
+	mne[21]="CMP";
+	mne[22]="JMP";
+	mne[23]="JC";
+	mne[24]="JNC";
+	mne[25]="JZ";
+	mne[26]="JNZ";
+	mne[27]="HLT";
+}

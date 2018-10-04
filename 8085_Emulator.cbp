@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="8085_Emulator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/8085_Emulator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/8085_Emulator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ADD.cpp" />
+		<Unit filename="ADI.cpp" />
+		<Unit filename="Arithmatical.h" />
+		<Unit filename="CMA.cpp" />
+		<Unit filename="CMP.cpp" />
+		<Unit filename="DAD.cpp" />
+		<Unit filename="DCR.cpp" />
+		<Unit filename="DCX.cpp" />
+		<Unit filename="HLT.cpp" />
+		<Unit filename="IIs_compliment.cpp" />
+		<Unit filename="INR.cpp" />
+		<Unit filename="INX.cpp" />
+		<Unit filename="JC.cpp" />
+		<Unit filename="JMP.cpp" />
+		<Unit filename="JNC.cpp" />
+		<Unit filename="JNZ.cpp" />
+		<Unit filename="JZ.cpp" />
+		<Unit filename="Jump.h" />
+		<Unit filename="LDA.cpp" />
+		<Unit filename="LDAX.cpp" />
+		<Unit filename="LHLD.cpp" />
+		<Unit filename="LXI.cpp" />
+		<Unit filename="Load_Store.h" />
+		<Unit filename="MOV.cpp" />
+		<Unit filename="MVI.cpp" />
+		<Unit filename="SET.cpp" />
+		<Unit filename="SHLD.cpp" />
+		<Unit filename="STA.cpp" />
+		<Unit filename="STAX.cpp" />
+		<Unit filename="SUB.cpp" />
+		<Unit filename="SUI.cpp" />
+		<Unit filename="XCHG.cpp" />
+		<Unit filename="add_sub.cpp" />
+		<Unit filename="basic_tools.h" />
+		<Unit filename="clearer.cpp" />
+		<Unit filename="convert_revert_tools.h" />
+		<Unit filename="converter_reverter.cpp" />
+		<Unit filename="debug.cpp" />
+		<Unit filename="display.cpp" />
+		<Unit filename="executer.cpp" />
+		<Unit filename="flag_setter.cpp" />
+		<Unit filename="header.h" />
+		<Unit filename="input.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mneumonics.cpp" />
+		<Unit filename="operation_tools.h" />
+		<Unit filename="reg_backup.cpp" />
+		<Unit filename="reg_struct.cpp" />
+		<Unit filename="to_case.cpp" />
+		<Unit filename="validation_tools.h" />
+		<Unit filename="validator.cpp" />
+		<Unit filename="value_adjuster.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
